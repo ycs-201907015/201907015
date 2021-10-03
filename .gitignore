@@ -1,3 +1,11 @@
+# test -> 이 줄은 무시
+# 파일명은 상관 없고, 확장자가 test면 관리X
+*.test
+
+# 파일명은 상관 없고, 확장자가 work면 관리X
+*.work
+ycs-201907015.*
+
 # History files
 .Rhistory
 .Rapp.history
